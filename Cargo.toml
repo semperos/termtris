@@ -1,0 +1,5 @@
+[package]
+
+name = "termtris"
+version = "0.0.1"
+authors = ["Daniel Gregoire <daniel.l.gregoire@gmail.com>"]
